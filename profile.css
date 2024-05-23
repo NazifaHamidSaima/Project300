@@ -1,0 +1,46 @@
+.dashboard-container {
+              max-width: 600px;
+              margin: 50px auto;
+              padding: 20px;
+              border: 1px solid #ccc;
+              border-radius: 5px;
+              background-color: #fff;
+              box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            }
+  
+              h2 {
+                  text-align: center;
+              }
+  
+              .details {
+                  margin-top: 20px;
+              }
+  
+              .details p {
+                  margin-bottom: 10px;
+              }
+  
+              .details p strong {
+                  font-weight: bold;
+                  margin-right: 5px;
+              }
+  
+              .logout-btn {
+                  display: block;
+                  width: 100px;
+                  margin: 20px auto 0;
+                  padding: 10px;
+                  text-align: center;
+                  border: none;
+                  border-radius: 5px;
+                  background-color: #007bff;
+                  color: #fff;
+                  text-decoration: none;
+              }
+  
+              .logout-btn:hover {
+                  background-color: #0056b3;
+              }
+  
+              .logout-btn:focus {
+                  outline: none;
