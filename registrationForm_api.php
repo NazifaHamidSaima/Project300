@@ -1,3 +1,4 @@
+
 <?php
           // Parameters for database connection
           $servername = "localhost";
@@ -22,7 +23,7 @@
             $mu_student_id = $_POST['mu_student_id'];
             $phone_number = $_POST['phone_number'];
             $batch = $_POST['batch'];
-            $department = $_POST['department'];
+            $department = $_POST['Department'];
 
 
 
